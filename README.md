@@ -284,6 +284,29 @@ Let's get started: [AI SubAgents](https://outcomeschool.com/blog/ai-subagents)
 
 ---
 
+## What is MCP (Model Context Protocol)?
+
+In this blog, we will learn about MCP (Model Context Protocol). We will also see the problem it solves, the pieces it is made of, how a request travels from the AI model all the way to a tool and back, and what we must be careful about while using it.
+
+We will cover the following:
+
+- The problem before MCP
+- What is MCP?
+- MCP = Model + Context + Protocol
+- The USB-C analogy
+- How it is different from a normal API
+- The three parts of MCP
+- How it all works step by step
+- How the connection happens
+- A real example
+- Importance of MCP
+- Things we must be careful about
+- Summary
+
+Let's get started: [What is MCP (Model Context Protocol)?](https://outcomeschool.com/blog/what-is-mcp-model-context-protocol)
+
+---
+
 ## AI Orchestration
 
 In this blog, we will learn about AI Orchestration. We will understand what it is, why we need it, how it is different from AI Agents, and the common patterns we use to coordinate multiple LLMs, tools, and steps together to build real AI products.
