@@ -515,6 +515,30 @@ Let's get started: [Decoding Sakana Fugu Technical Report](https://outcomeschool
 
 ---
 
+## What are Agent Skills?
+
+In this blog, we will learn about Agent Skills. We will also see why we need them, what is inside a Skill, how the description makes an agent pick up the right Skill by itself, how progressive disclosure keeps the context window free, how Agent Skills differ from MCP, and how we can create our own Skill.
+
+We will cover the following:
+
+- The problem before Agent Skills
+- What are Agent Skills?
+- What is inside a Skill?
+- The description is the trigger
+- Progressive disclosure, the main idea
+- A Skill can carry real code
+- Where Skills live
+- How do we create our own Skill?
+- Agent Skills vs MCP
+- A real example
+- Importance of Agent Skills
+- Things we must be careful about
+- Summary
+
+Let's get started: [What are Agent Skills?](https://outcomeschool.com/blog/what-are-agent-skills)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
