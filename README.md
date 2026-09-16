@@ -539,6 +539,42 @@ Let's get started: [What are Agent Skills?](https://outcomeschool.com/blog/what-
 
 ---
 
+## Design a Real-Time Voice AI Agent
+
+In this blog, we will learn about how to design a Real-Time Voice AI Agent, a system that listens to a person speaking, understands what they said, thinks about it, takes actions if needed, and talks back in a natural human-like voice, all within a fraction of a second. We will also see why voice is much harder than a text chatbot, the two big ways to build it (the cascaded pipeline of Speech-to-Text, LLM, and Text-to-Speech versus the end-to-end Speech-to-Speech model), how the agent knows when the user has stopped talking, how we handle interruptions, how tools and memory fit in, how we scale it to thousands of calls, the edge cases that break a voice agent in production, the pros and cons of every approach, and when to use which one.
+
+We will cover the following:
+
+- What is a Voice AI Agent?
+- Why is Real-Time Voice hard?
+- Requirements
+- Back-of-the-envelope estimation
+- High-Level Architecture
+- Component 1: Audio Transport
+- Component 2: Voice Activity Detection and Turn Detection
+- Component 3: Speech-to-Text (STT)
+- Component 4: The Brain - LLM with Tools
+- Component 5: Text-to-Speech (TTS)
+- Approach 1: Cascaded Pipeline (STT -> LLM -> TTS)
+- Approach 2: Speech-to-Speech Model
+- Approach 3: Hybrid Approach
+- Cascaded vs Speech-to-Speech: Comparison
+- Latency Budget: Where every millisecond goes
+- Handling Interruptions (Barge-in)
+- Tool Calling in a Voice Agent
+- Memory and Context
+- Telephony: Connecting to real phone calls
+- Scaling the system
+- Edge Cases and how to handle them
+- Observability and Evaluation
+- Safety, Security, and Privacy
+- Cost
+- How to present this design in an interview
+
+Let's get started: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
